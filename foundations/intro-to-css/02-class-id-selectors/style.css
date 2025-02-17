@@ -1,0 +1,21 @@
+p {
+    background-color: pink;
+}
+
+.smaller-text {
+    font-size: small;
+}
+
+.slight-big {
+    font-size: large;
+}
+
+#blue-big {
+    font-size:x-large;
+    color:blue;
+}
+
+#greenbg-boldtext {
+    font-weight: bold;
+    background-color: rgb(0, 255, 140);
+}
